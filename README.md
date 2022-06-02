@@ -1,4 +1,4 @@
-# The-Birthday-Problem-
+# The Birthday Problem
 # [Project 1: The Birthday Problem: Overview](https://www.scientificamerican.com/article/bring-science-home-probability-birthday-paradox/) 
 
 
