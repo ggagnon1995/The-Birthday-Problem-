@@ -1,5 +1,5 @@
 # The-Birthday-Problem-
-# [Project 1: The Birthday Problem: Overview](https://github.com/ggagnon1995/The-Birthday-Problem-) 
+# [Project 1: The Birthday Problem: Overview](https://www.scientificamerican.com/article/bring-science-home-probability-birthday-paradox/) 
 
 
 * This is a common problem analyzed in statistics. It asks: how many people are needed in a room to have at least a 50% probability of two people sharing the same birthday? The answer is 23 people. 
