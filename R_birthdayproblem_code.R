@@ -30,7 +30,7 @@ summary(simulation)
 
 ###############################################################################
 # Display the solution 
-solution <- subset(simulation, probability >= 0.5)
+solution <- subset(simulation, probability >= 0.45)
 print("The Solution")
 print(solution)
 
