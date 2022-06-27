@@ -123,6 +123,8 @@ table(ax, df)  # where df is your data frame
 plt.savefig('mytable.png')
 ```
 
+![](/mytable.png)
+
 #### Now we can plot the results, matching The Economist theme requires additional packages and many tweeks
 
 ```python
