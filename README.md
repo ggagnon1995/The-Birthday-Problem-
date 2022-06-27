@@ -214,22 +214,22 @@ summary(simulation)
 #### Before plotting, display the solution 
 
 ```
-solution <- subset(simulation, probability >= 0.5)
+solution <- subset(simulation, probability >= 0.45)
 print("The Solution")
 print(solution)
 
-  people probability
-    <dbl>       <dbl>
- 1     23       0.503
- 2     24       0.544
- 3     25       0.570
- 4     26       0.597
- 5     27       0.631
- 6     28       0.656
- 7     29       0.682
- 8     30       0.704
- 9     31       0.723
-10     32       0.750
+   people probability
+ 
+ 1     22       0.472
+ 2     23       0.503
+ 3     24       0.544
+ 4     25       0.570
+ 5     26       0.597
+ 6     27       0.631
+ 7     28       0.656
+ 8     29       0.682
+ 9     30       0.704
+10     31       0.723
 
 ```
 
